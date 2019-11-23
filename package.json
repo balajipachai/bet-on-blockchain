@@ -1,0 +1,26 @@
+{
+  "name": "my-idea",
+  "version": "1.0.0",
+  "description": "A collection of smart contracts for betting purposes.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test --network ganache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://balajipachai@bitbucket.org/balajipachai/my-idea.git"
+  },
+  "keywords": [
+    "Solidity",
+    "Ethereum",
+    "Truffle",
+    "Betting",
+    "My-Idea"
+  ],
+  "author": "Balaji Shetty Pachai",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/balajipachai/my-idea#readme"
+}
